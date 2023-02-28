@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fayiawaluddinzaki
-- 👀 I’m interested in PHP
+- 👀 I’m interested in PHP and Javascript
 - 🌱 I’m currently learning PHP and Js Framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me 
 - Email : zakiawaluddin@gmail.com
 - Linkedin : https://www.linkedin.com/in/fayi-awaluddin-zaki-ba33651a7/
