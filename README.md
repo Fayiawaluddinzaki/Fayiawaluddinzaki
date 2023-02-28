@@ -2,7 +2,10 @@
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning PHP and Js Framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Email : zakiawaluddin@gmail.com
+- Linkedin : https://www.linkedin.com/in/fayi-awaluddin-zaki-ba33651a7/
+- My Website : https://masfayy.online/
 
 <!---
 Fayiawaluddinzaki/Fayiawaluddinzaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
