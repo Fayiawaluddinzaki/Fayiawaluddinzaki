@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - Email : zakiawaluddin@gmail.com
 - Linkedin : https://www.linkedin.com/in/fayi-awaluddin-zaki-ba33651a7/
-- My Website : https://fayiawaluddinzaki.my.id/
+- My Website : https://fayiawaluddin.my.id/
 
 <!---
 Fayiawaluddinzaki/Fayiawaluddinzaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
